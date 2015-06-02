@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4473" started-at="2015-03-03T15:49:25Z" finished-at="2015-03-03T15:49:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4473" started-at="2015-03-03T15:49:25Z" finished-at="2015-03-03T15:49:29Z">
+      <class name="firsttestngpackage.FirstTestNGFileAfterBeforeMethod">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="launchBrowser" is-config="true" duration-ms="821" started-at="2015-03-03T10:49:25Z" finished-at="2015-03-03T10:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="verifyHomepageTitle" is-config="true" duration-ms="79" started-at="2015-03-03T10:49:26Z" finished-at="2015-03-03T10:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="register()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="register" duration-ms="851" started-at="2015-03-03T10:49:26Z" finished-at="2015-03-03T10:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="goBackToHomepage" is-config="true" duration-ms="269" started-at="2015-03-03T10:49:27Z" finished-at="2015-03-03T10:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="verifyHomepageTitle" is-config="true" duration-ms="413" started-at="2015-03-03T10:49:27Z" finished-at="2015-03-03T10:49:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="support()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="support" duration-ms="1536" started-at="2015-03-03T10:49:27Z" finished-at="2015-03-03T10:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="goBackToHomepage" is-config="true" duration-ms="227" started-at="2015-03-03T10:49:29Z" finished-at="2015-03-03T10:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:firsttestngpackage.FirstTestNGFileAfterBeforeMethod@1e02496]" name="terminateBrowser" is-config="true" duration-ms="257" started-at="2015-03-03T10:49:29Z" finished-at="2015-03-03T10:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- firsttestngpackage.FirstTestNGFileAfterBeforeMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
